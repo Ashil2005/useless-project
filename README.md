@@ -1,4 +1,4 @@
-<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
+<img width="1280" alt="readme-banner" src=["https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">](https://github.com/Ashil2005/useless-project)
 
 # [ROMAN CONVERT] 🎯
 
@@ -26,49 +26,25 @@ For Software:
 - c++
 
 
-### Implementation
-For Software:
-# Installation
-[commands]
 
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+[![Screenshot1](Add screenshot 1 here with proper name)](https://github.com/Ashil2005/useless-project/blob/main/Screenshot%20(1).png)
+*this picture shows the result popup screen
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+[screen shot 2](https://github.com/Ashil2005/useless-project/blob/main/Screenshot%20(2).png)
+*shows the result pop up screen
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+[![Screenshot3](Add screenshot 3 here with proper name)](https://github.com/Ashil2005/useless-project/blob/main/Screenshot%20(3).png)
+*this picture shows the popup screen when app is starts
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
@@ -79,9 +55,7 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+-ASHIL S MATHEWS - ENTIRE CODE and done entire project
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
